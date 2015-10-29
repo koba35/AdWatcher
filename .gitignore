@@ -1,0 +1,10 @@
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+# Basics
+*.py[cod]
+*.pyc
+__pycache__
+# Pycharm
+.idea

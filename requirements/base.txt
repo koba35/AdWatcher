@@ -1,0 +1,6 @@
+SQLAlchemy
+alembic
+Grab
+pytesseract
+Pillow
+apscheduler
